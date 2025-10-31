@@ -18,8 +18,8 @@ if intro:
     else:
         st.write(" :3 ")
 if intro:
-    uno = st.text_input("uno reverse. forever. and EVER ")
+    uno = st.text_input("uno reverse. forever. and EVER!!!!!!!!")
     for i in range(10000):
         for line in uno:
-            st.write(f"uno reverso: {line}")
+            st.write(f"uno reverso: {line} GENDER")
             st.write(f"en guard: NO U UNO REVERSO {intro}")
