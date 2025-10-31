@@ -22,4 +22,4 @@ if intro:
     for i in range(1500):
         for line in uno:
             st.write(f"uno reverso: {line} GENDER")
-            st.write(f"en guard: NO U UNO REVERSO {intro}")
+            st.write(f"en garde: NO U UNO REVERSO {intro}")
