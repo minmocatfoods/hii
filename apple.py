@@ -9,7 +9,7 @@ And remember that depth is the greatest of heights
 And if you know where you stand then you know where to land
 And if you fall it won't matter 'cause you'll know that you're right''')
 
-intro = st.text_input("POP TARTS? ")
+intro = st.text_input("POP TARTS? *enter text below* ")
 
 if intro:
     intro_lowered = intro.lower()
